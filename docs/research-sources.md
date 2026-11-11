@@ -32,6 +32,12 @@
 | agents.md 官方站（openai/agents.md） | 开放标准定义；"a README for agents"；嵌套优先规则；60,000+ 采用者 | [agents.md](https://agents.md/) |
 | OpenAI Codex 文档 | Codex 原生读取 AGENTS.md；全局 ~/.codex/AGENTS.md 与项目层 | [developers.openai.com/codex](https://developers.openai.com/codex/) |
 
+## 工具来源
+
+| 来源 | 内容要点 | 链接 |
+|---|---|---|
+| AGENTS.md Check | 离线检查合并冲突标记、不可见双向字符等机械性问题 | [github.com/yangdoh/agents-md-check](https://github.com/yangdoh/agents-md-check) |
+
 ## 社区讨论
 
 | 来源 | 内容要点 | 链接 |

@@ -70,6 +70,7 @@ bash awesome-agents-md/tools/amd.sh check   # 体检现有 AGENTS.md
 ## 工具
 
 - [amd](tools/amd.sh) — 本仓库出品：`init` 生成 / `check` 体检（密钥泄露与整体转发判 FAIL），零依赖
+- [AGENTS.md Check](https://github.com/yangdoh/agents-md-check) — 离线检查合并冲突标记、不可见双向字符等机械性问题；无需第三方 Python 包
 - [claude-os](https://github.com/nathanieltn/claude-os) — 记忆双轨制（每日日志 + 精选 MEMORY.md）的开源实现
 
 ## 学术研究

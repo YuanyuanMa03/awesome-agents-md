@@ -56,6 +56,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/YuanyuanMa03/awesome-agents-
 ## Tools
 
 - [amd](tools/amd.sh) — this repo's CLI: `init` / `check`, zero dependencies
+- [AGENTS.md Check](https://github.com/yangdoh/agents-md-check) — offline checks for merge markers, invisible bidirectional controls, and other mechanical issues; no third-party Python packages
 - [claude-os](https://github.com/nathanieltn/claude-os) — open-source two-track memory (daily logs + curated MEMORY.md)
 
 ## Research
